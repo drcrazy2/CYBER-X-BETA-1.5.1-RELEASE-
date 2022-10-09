@@ -1,39 +1,39 @@
 {
-  "name": "CYBER-X 1.5 BETA",
-  "description": "ᴄʏʙᴇʀ-x ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ",
-  "repository": "https://github.com/darkalphaxteam/CYBER-X-BETA-1.5.1-RELEASE-",
-  "logo": "https://telegra.ph/file/0c126ae19dca72ab0cae0.jpg",
+  "name": "QUEEN AMA",
+  "description": "⏤ ͟͞   ⃝𝐐𝐔𝐄𝐄𝐍 𝐀𝐌𝐀 𝐄𝐃𝐈𝐓𝐈𝐎𝐍  ͟͞⏤",
+  "repository": "https://github.com/Botpasiya/CYBER-X-BETA-1.5.1-RELEASE-",
+  "logo": "https://telegra.ph/file/ae580c589a7cf08fa6a9c.jpg",
   "keywords": ["nodejs", "Bot", "WhatsApp Bot", "WhatsApp Automation", "Multi Device"],
    "env": {
           	"SUDO_NUMBER": {
 			"description": "Add the owner number here",
 			"required": true,
-			"value": "94711421243"
+			"value": "94701643862"
 		    },
 		    "BOT_NAME": {
 			"description": "Change the bot Name here",
 			"required": true,
-			"value": "CYBER-X BETA 1.5"
+			"value": "⏤ ͟͞   ⃝𝐐𝐔𝐄𝐄𝐍 𝐀𝐌𝐀 𝐄𝐃𝐈𝐓𝐈𝐎𝐍  ͟͞⏤"
 			},
 			"BOT_NUMBER": {
 			"description": "Change the Bot Number",
 			"required": true,
-			"value": "94778962038"
+			"value": "94728299834"
 			},
 			"STICKERS_NAME": {
 			"description": "Add the Stickers Name",
 			"required": true,
-			"value": "ᴋɪɴɢ.ᴅᴀʀᴋ ᴀʟᴘʜᴀ"
+			"value": "®𝐌𝐀𝐃𝐔𝐑𝐀𝐍𝐆𝐀 𝐁𝐎𝐓❤️"
 			},
 			"OWNER_NAME": {
 			"description": "Add Your Name",
 			"required": true,
-			"value": "ᴅᴀʀᴋ ᴀʟᴘʜᴀ"
+			"value": "⏤ ͟͞ 𝑴𝑨𝑫𝑼𝑾𝑨 ͟͞⏤"
 			},
 			"FOOTER": {
 			"description": "Add Your Button Massage's Footer",
 			"required": true,
-			"value": "ᴄʏʙᴇʀ-x ʙᴇᴛᴀ ʀᴇʟᴇᴀꜱᴇ"
+			"value": "⏤ ͟͞   ⃝𝐐𝐔𝐄𝐄𝐍 𝐀𝐌𝐀 𝐄𝐃𝐈𝐓𝐈𝐎𝐍  ͟͞⏤"
 			},
 			"ALIVE_IMAGE": {
 			"description": "Add Your Alive Image Derect Link",
@@ -68,12 +68,12 @@
 			"YOUR_WEB": {
 			"description": "Add Your web or a nother Link",
 			"required": true,
-			"value": "https://github.com/darkalphaxteam"
+			"value": "https://github.com/Botpasiya"
 			},
 			"PREMIUM_NUMBER" : {
 			"description": "Add your Number For unlock all Bot Features",
 			"required": true,
-			"value": "94711421243"
+			"value": "94701643862"
 			},
 			"SONGUP_MSG": {
 			"description": "Add Massage For Song Uploading",
@@ -88,7 +88,7 @@
 			"DEPLOYER_NAME": {
 			"description": "Add Your Name",
 			"required": true,
-			"value": "DARK ALPHA"
+			"value": "MADUWA💗"
 			},
 			"LOCATION": {
 			"description": "Add Your Location",
@@ -113,7 +113,7 @@
 			"INBOX_MSG": {
 			"description": "Add Your Inbox Back Massage",
 			"required": true,
-			"value": "*ᴄʏʙᴇʀ-x ᴍᴅ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ ᴏɴʟʏ ᴡᴏʀᴋɪɴɢ ɪɴ ɢʀᴏᴜᴘꜱ*"
+			"value": "_*Inbox ඇවිල්ලා වද දෙන්න එපා.. ඕන දෙයක් තියෙනවා නම් Group එකෙන් ගන්න /n https://chat.whatsapp.com/C5rLhmiYCU0GSXNMECclKX*_"
 			}
 			
           },
