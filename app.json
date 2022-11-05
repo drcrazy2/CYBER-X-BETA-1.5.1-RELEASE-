@@ -8,7 +8,7 @@
           	"SUDO_NUMBER": {
 			"description": "Add the owner number here",
 			"required": true,
-			"value": "94701643862"
+			"value": "94775556234"
 		    },
 		    "BOT_NAME": {
 			"description": "Change the bot Name here",
@@ -18,17 +18,17 @@
 			"BOT_NUMBER": {
 			"description": "Change the Bot Number",
 			"required": true,
-			"value": "94728299834"
+			"value": "94775556234"
 			},
 			"STICKERS_NAME": {
 			"description": "Add the Stickers Name",
 			"required": true,
-			"value": "®𝐌𝐀𝐃𝐔𝐑𝐀𝐍𝐆𝐀 𝐁𝐎𝐓❤️"
+			"value": "®QUEEN AMA❤️"
 			},
 			"OWNER_NAME": {
 			"description": "Add Your Name",
 			"required": true,
-			"value": "⏤ ͟͞ 𝑴𝑨𝑫𝑼𝑾𝑨 ͟͞⏤"
+			"value": "⏤ ͟͞DESH ͟͞"
 			},
 			"FOOTER": {
 			"description": "Add Your Button Massage's Footer",
@@ -63,7 +63,7 @@
 			"CAPTION": {
 			"description": "Add Your Downloaded Video's Caption",
 			"required": true,
-			"value": "ʙʏ ᴄʏʙᴇʀ-x ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ"
+			"value": "⏤ ͟͞   ⃝𝐐𝐔𝐄𝐄𝐍 𝐀𝐌𝐀 "
 			},
 			"YOUR_WEB": {
 			"description": "Add Your web or a nother Link",
@@ -73,12 +73,12 @@
 			"PREMIUM_NUMBER" : {
 			"description": "Add your Number For unlock all Bot Features",
 			"required": true,
-			"value": "94701643862"
+			"value": "94775556234"
 			},
 			"SONGUP_MSG": {
 			"description": "Add Massage For Song Uploading",
 			"required": true,
-			"value": "UPLOADING YOUR SONG PLEASE WAIT..."
+			"value": "UPLOADING YOUR SONG PLEASE WAIT...🚀"
 			},
 			"WELCOME_GOODBYE": {
 			"description": "Set 'true' if you want the Welcome and Goodbye massages  add 'false' if you don't",
@@ -88,7 +88,7 @@
 			"DEPLOYER_NAME": {
 			"description": "Add Your Name",
 			"required": true,
-			"value": "MADUWA💗"
+			"value": "DESH"
 			},
 			"LOCATION": {
 			"description": "Add Your Location",
@@ -113,7 +113,7 @@
 			"INBOX_MSG": {
 			"description": "Add Your Inbox Back Massage",
 			"required": true,
-			"value": "_*Inbox ඇවිල්ලා වද දෙන්න එපා.. ඕන දෙයක් තියෙනවා නම් Group එකෙන් ගන්න /n https://chat.whatsapp.com/C5rLhmiYCU0GSXNMECclKX*_"
+			"value": "_*Inbox ඇවිල්ලා වද දෙන්න එපා..*_*"
 			}
 			
           },
